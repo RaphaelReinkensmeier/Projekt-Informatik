@@ -6,6 +6,6 @@
  */
 
 echo"<h1>$page</h1>";
-echo "Oops! Die Seite existiert nicht. <br />Gehe zurück zur <a href='index.php?page=home'>Startseite</a>.";
+echo "Oops! Kein iPhone hier. <br />Gehe zurück zur <a href='index.php?page=home'>Startseite</a>.";
 
 ?>
